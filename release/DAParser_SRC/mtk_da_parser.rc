@@ -1,3 +1,0 @@
-#include <windows.h>
-
-IDI_ICON ICON DISCARDABLE "mtk_da_parser.ico"
